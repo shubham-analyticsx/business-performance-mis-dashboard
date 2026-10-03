@@ -4,6 +4,10 @@ An end-to-end **Business Performance MIS and Management Dashboard** built using 
 
 The project demonstrates how raw transactional sales data can be transformed into a structured, validated and interactive reporting system for management decision-making.
 
+## 📊 Dashboard Preview
+
+![Business Performance MIS Dashboard](screenshots/Apex_Retail_MIS_Dashboard_High_Resolution.png)
+
 ---
 
 ## 📌 Project Overview
